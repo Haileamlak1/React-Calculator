@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple React Calculator
 <<<<<<< HEAD
 This is a simple calculator built using React.js. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -44,3 +45,7 @@ This is a simple calculator built using React.js. It allows users to perform bas
 - React.js
 - CSS
 >>>>>>> 0942300 (Initial commit)
+=======
+# Calc-With_React
+This is a basic calculator web application built using React.js. It allows users to perform simple arithmetic calculations such as addition, subtraction, multiplication, and division. 
+>>>>>>> 2378143 (Initial commit)
